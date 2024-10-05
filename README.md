@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/Priyanshu062003/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Priyanshu062003/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Priyanshu062003/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2597-cycle-length-queries-in-a-tree](https://github.com/Priyanshu062003/Leetcode/tree/master/2597-cycle-length-queries-in-a-tree) |
 | [2755-extra-characters-in-a-string](https://github.com/Priyanshu062003/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Priyanshu062003/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Priyanshu062003/Leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
@@ -150,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Priyanshu062003/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+## Tree
+|  |
+| ------- |
+| [2597-cycle-length-queries-in-a-tree](https://github.com/Priyanshu062003/Leetcode/tree/master/2597-cycle-length-queries-in-a-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [2597-cycle-length-queries-in-a-tree](https://github.com/Priyanshu062003/Leetcode/tree/master/2597-cycle-length-queries-in-a-tree) |
 <!---LeetCode Topics End-->
