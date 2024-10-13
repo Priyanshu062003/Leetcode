@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Priyanshu062003/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/Priyanshu062003/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Priyanshu062003/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Priyanshu062003/Leetcode/tree/master/0859-design-circular-deque) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Priyanshu062003/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/Priyanshu062003/Leetcode/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Priyanshu062003/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Priyanshu062003/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Priyanshu062003/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Priyanshu062003/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Priyanshu062003/Leetcode/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Priyanshu062003/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Priyanshu062003/Leetcode/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 ## Prefix Sum
 |  |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Priyanshu062003/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Priyanshu062003/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Tree
 |  |
@@ -170,6 +174,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Priyanshu062003/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshu062003/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Priyanshu062003/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Priyanshu062003/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 <!---LeetCode Topics End-->
