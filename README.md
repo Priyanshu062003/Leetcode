@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Priyanshu062003/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Priyanshu062003/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2597-cycle-length-queries-in-a-tree](https://github.com/Priyanshu062003/Leetcode/tree/master/2597-cycle-length-queries-in-a-tree) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Priyanshu062003/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/Priyanshu062003/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Priyanshu062003/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Priyanshu062003/Leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
@@ -177,8 +178,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Priyanshu062003/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshu062003/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Priyanshu062003/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Priyanshu062003/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Priyanshu062003/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Priyanshu062003/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 <!---LeetCode Topics End-->
