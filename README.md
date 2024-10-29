@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-cycle-length-queries-in-a-tree](https://github.com/Priyanshu062003/Leetcode/tree/master/2597-cycle-length-queries-in-a-tree) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Priyanshu062003/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/Priyanshu062003/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Priyanshu062003/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Priyanshu062003/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Priyanshu062003/Leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## String
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Priyanshu062003/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Priyanshu062003/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2755-extra-characters-in-a-string](https://github.com/Priyanshu062003/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Priyanshu062003/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Priyanshu062003/Leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Trie
 |  |
@@ -204,4 +206,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Priyanshu062003/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Priyanshu062003/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 <!---LeetCode Topics End-->
