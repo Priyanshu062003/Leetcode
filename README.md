@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Priyanshu062003/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0831-largest-sum-of-averages](https://github.com/Priyanshu062003/Leetcode/tree/master/0831-largest-sum-of-averages) |
 | [0859-design-circular-deque](https://github.com/Priyanshu062003/Leetcode/tree/master/0859-design-circular-deque) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Priyanshu062003/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Priyanshu062003/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Priyanshu062003/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Priyanshu062003/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/Priyanshu062003/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Priyanshu062003/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Priyanshu062003/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0910-nth-magical-number](https://github.com/Priyanshu062003/Leetcode/tree/master/0910-nth-magical-number) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Priyanshu062003/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Priyanshu062003/Leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
@@ -144,12 +146,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/Priyanshu062003/Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Priyanshu062003/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Priyanshu062003/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Priyanshu062003/Leetcode/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Priyanshu062003/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0831-largest-sum-of-averages](https://github.com/Priyanshu062003/Leetcode/tree/master/0831-largest-sum-of-averages) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Priyanshu062003/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Priyanshu062003/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 ## Linked List
 |  |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/Priyanshu062003/Leetcode/tree/master/0859-design-circular-deque) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Priyanshu062003/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Stack
 |  |
 | ------- |
@@ -205,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Priyanshu062003/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Priyanshu062003/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Priyanshu062003/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Backtracking
 |  |
@@ -219,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3212-count-the-number-of-good-partitions](https://github.com/Priyanshu062003/Leetcode/tree/master/3212-count-the-number-of-good-partitions) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Priyanshu062003/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
