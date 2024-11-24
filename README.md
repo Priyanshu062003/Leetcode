@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/Priyanshu062003/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1923-sentence-similarity-iii](https://github.com/Priyanshu062003/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/Priyanshu062003/Leetcode/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/Priyanshu062003/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Priyanshu062003/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Priyanshu062003/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Priyanshu062003/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Priyanshu062003/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Priyanshu062003/Leetcode/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshu062003/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2089-maximum-matrix-sum](https://github.com/Priyanshu062003/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Priyanshu062003/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Priyanshu062003/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/Priyanshu062003/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Priyanshu062003/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Priyanshu062003/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/Priyanshu062003/Leetcode/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/Priyanshu062003/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Priyanshu062003/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Combinatorics
 |  |
