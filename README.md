@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-the-number-of-good-partitions](https://github.com/Priyanshu062003/Leetcode/tree/master/3212-count-the-number-of-good-partitions) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Priyanshu062003/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Priyanshu062003/Leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/Priyanshu062003/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -132,11 +133,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-the-number-of-good-partitions](https://github.com/Priyanshu062003/Leetcode/tree/master/3212-count-the-number-of-good-partitions) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Priyanshu062003/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Priyanshu062003/Leetcode/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/Priyanshu062003/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Counting
 |  |
 | ------- |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Priyanshu062003/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Priyanshu062003/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/Priyanshu062003/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Design
 |  |
 | ------- |
@@ -247,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Priyanshu062003/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Enumeration
+|  |
+| ------- |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/Priyanshu062003/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 <!---LeetCode Topics End-->
