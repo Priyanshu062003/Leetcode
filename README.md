@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/Priyanshu062003/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Priyanshu062003/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Priyanshu062003/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Priyanshu062003/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1923-sentence-similarity-iii](https://github.com/Priyanshu062003/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/Priyanshu062003/Leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Priyanshu062003/Leetcode/tree/master/2089-maximum-matrix-sum) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Priyanshu062003/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Priyanshu062003/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0910-nth-magical-number](https://github.com/Priyanshu062003/Leetcode/tree/master/0910-nth-magical-number) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Priyanshu062003/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Priyanshu062003/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Priyanshu062003/Leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Dynamic Programming
