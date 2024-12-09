@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Priyanshu062003/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3212-count-the-number-of-good-partitions](https://github.com/Priyanshu062003/Leetcode/tree/master/3212-count-the-number-of-good-partitions) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Priyanshu062003/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3427-special-array-ii](https://github.com/Priyanshu062003/Leetcode/tree/master/3427-special-array-ii) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Priyanshu062003/Leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Priyanshu062003/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## String
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-nth-magical-number](https://github.com/Priyanshu062003/Leetcode/tree/master/0910-nth-magical-number) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Priyanshu062003/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Priyanshu062003/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [3427-special-array-ii](https://github.com/Priyanshu062003/Leetcode/tree/master/3427-special-array-ii) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Priyanshu062003/Leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Dynamic Programming
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Priyanshu062003/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Priyanshu062003/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2574-count-subarrays-with-median-k](https://github.com/Priyanshu062003/Leetcode/tree/master/2574-count-subarrays-with-median-k) |
+| [3427-special-array-ii](https://github.com/Priyanshu062003/Leetcode/tree/master/3427-special-array-ii) |
 ## Linked List
 |  |
 | ------- |
