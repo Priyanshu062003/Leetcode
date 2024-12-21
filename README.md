@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Priyanshu062003/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/Priyanshu062003/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Hash Table
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2597-cycle-length-queries-in-a-tree](https://github.com/Priyanshu062003/Leetcode/tree/master/2597-cycle-length-queries-in-a-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/Priyanshu062003/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
