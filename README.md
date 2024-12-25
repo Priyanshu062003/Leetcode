@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Priyanshu062003/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Priyanshu062003/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Priyanshu062003/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Hash Table
 |  |
@@ -226,11 +227,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Priyanshu062003/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2597-cycle-length-queries-in-a-tree](https://github.com/Priyanshu062003/Leetcode/tree/master/2597-cycle-length-queries-in-a-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Priyanshu062003/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Priyanshu062003/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2597-cycle-length-queries-in-a-tree](https://github.com/Priyanshu062003/Leetcode/tree/master/2597-cycle-length-queries-in-a-tree) |
 ## Greedy
 |  |
@@ -274,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Priyanshu062003/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Priyanshu062003/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 <!---LeetCode Topics End-->
