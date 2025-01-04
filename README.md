@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/Priyanshu062003/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Priyanshu062003/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/Priyanshu062003/Leetcode/tree/master/1923-sentence-similarity-iii) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Priyanshu062003/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Priyanshu062003/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Priyanshu062003/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Priyanshu062003/Leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Priyanshu062003/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Priyanshu062003/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Priyanshu062003/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Priyanshu062003/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Priyanshu062003/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-count-subarrays-with-median-k](https://github.com/Priyanshu062003/Leetcode/tree/master/2574-count-subarrays-with-median-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Priyanshu062003/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0831-largest-sum-of-averages](https://github.com/Priyanshu062003/Leetcode/tree/master/0831-largest-sum-of-averages) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Priyanshu062003/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Priyanshu062003/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Priyanshu062003/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2574-count-subarrays-with-median-k](https://github.com/Priyanshu062003/Leetcode/tree/master/2574-count-subarrays-with-median-k) |
 | [3427-special-array-ii](https://github.com/Priyanshu062003/Leetcode/tree/master/3427-special-array-ii) |
 ## Linked List
@@ -283,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Priyanshu062003/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Priyanshu062003/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
