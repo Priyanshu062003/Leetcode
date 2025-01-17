@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-cycle-length-queries-in-a-tree](https://github.com/Priyanshu062003/Leetcode/tree/master/2597-cycle-length-queries-in-a-tree) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Priyanshu062003/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/Priyanshu062003/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2792-neighboring-bitwise-xor](https://github.com/Priyanshu062003/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Priyanshu062003/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Priyanshu062003/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3212-count-the-number-of-good-partitions](https://github.com/Priyanshu062003/Leetcode/tree/master/3212-count-the-number-of-good-partitions) |
@@ -290,4 +291,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Priyanshu062003/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2792-neighboring-bitwise-xor](https://github.com/Priyanshu062003/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 <!---LeetCode Topics End-->
