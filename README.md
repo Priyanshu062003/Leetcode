@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Priyanshu062003/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Priyanshu062003/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/Priyanshu062003/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Priyanshu062003/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Hash Table
 |  |
@@ -287,9 +288,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Priyanshu062003/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/Priyanshu062003/Leetcode/tree/master/0820-find-eventual-safe-states) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Priyanshu062003/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2792-neighboring-bitwise-xor](https://github.com/Priyanshu062003/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+## Graph
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Priyanshu062003/Leetcode/tree/master/0820-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Priyanshu062003/Leetcode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
