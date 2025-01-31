@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Priyanshu062003/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Priyanshu062003/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0831-largest-sum-of-averages](https://github.com/Priyanshu062003/Leetcode/tree/master/0831-largest-sum-of-averages) |
+| [0854-making-a-large-island](https://github.com/Priyanshu062003/Leetcode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/Priyanshu062003/Leetcode/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Priyanshu062003/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0947-online-election](https://github.com/Priyanshu062003/Leetcode/tree/master/0947-online-election) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Priyanshu062003/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Priyanshu062003/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0820-find-eventual-safe-states](https://github.com/Priyanshu062003/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/Priyanshu062003/Leetcode/tree/master/0854-making-a-large-island) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Priyanshu062003/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Hash Table
 |  |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0854-making-a-large-island](https://github.com/Priyanshu062003/Leetcode/tree/master/0854-making-a-large-island) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Priyanshu062003/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Priyanshu062003/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/Priyanshu062003/Leetcode/tree/master/1972-rotating-the-box) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Priyanshu062003/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0820-find-eventual-safe-states](https://github.com/Priyanshu062003/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/Priyanshu062003/Leetcode/tree/master/0854-making-a-large-island) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -302,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Priyanshu062003/Leetcode/tree/master/0820-find-eventual-safe-states) |
+## Union Find
+|  |
+| ------- |
+| [0854-making-a-large-island](https://github.com/Priyanshu062003/Leetcode/tree/master/0854-making-a-large-island) |
 <!---LeetCode Topics End-->
