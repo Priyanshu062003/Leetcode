@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Priyanshu062003/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0947-online-election](https://github.com/Priyanshu062003/Leetcode/tree/master/0947-online-election) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Priyanshu062003/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1364-tuple-with-same-product](https://github.com/Priyanshu062003/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Priyanshu062003/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Priyanshu062003/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Priyanshu062003/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Priyanshu062003/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0947-online-election](https://github.com/Priyanshu062003/Leetcode/tree/master/0947-online-election) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Priyanshu062003/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1364-tuple-with-same-product](https://github.com/Priyanshu062003/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Priyanshu062003/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Priyanshu062003/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Priyanshu062003/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/Priyanshu062003/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Priyanshu062003/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Priyanshu062003/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Priyanshu062003/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
