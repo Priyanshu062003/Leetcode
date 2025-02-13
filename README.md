@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Priyanshu062003/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3212-count-the-number-of-good-partitions](https://github.com/Priyanshu062003/Leetcode/tree/master/3212-count-the-number-of-good-partitions) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Priyanshu062003/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Priyanshu062003/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Priyanshu062003/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/Priyanshu062003/Leetcode/tree/master/3427-special-array-ii) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Priyanshu062003/Leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Priyanshu062003/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1917-maximum-average-pass-ratio](https://github.com/Priyanshu062003/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Priyanshu062003/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Priyanshu062003/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -323,5 +325,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Priyanshu062003/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Priyanshu062003/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/Priyanshu062003/Leetcode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
