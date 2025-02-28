@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Priyanshu062003/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0567-permutation-in-string](https://github.com/Priyanshu062003/Leetcode/tree/master/0567-permutation-in-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshu062003/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1170-shortest-common-supersequence](https://github.com/Priyanshu062003/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/Priyanshu062003/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Priyanshu062003/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/Priyanshu062003/Leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Priyanshu062003/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Priyanshu062003/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0831-largest-sum-of-averages](https://github.com/Priyanshu062003/Leetcode/tree/master/0831-largest-sum-of-averages) |
+| [1170-shortest-common-supersequence](https://github.com/Priyanshu062003/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Priyanshu062003/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2755-extra-characters-in-a-string](https://github.com/Priyanshu062003/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Priyanshu062003/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
