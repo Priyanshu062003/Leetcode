@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/Priyanshu062003/Leetcode/tree/master/3427-special-array-ii) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Priyanshu062003/Leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Priyanshu062003/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3643-zero-array-transformation-ii](https://github.com/Priyanshu062003/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## String
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Priyanshu062003/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/Priyanshu062003/Leetcode/tree/master/3427-special-array-ii) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Priyanshu062003/Leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
+| [3643-zero-array-transformation-ii](https://github.com/Priyanshu062003/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Priyanshu062003/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2574-count-subarrays-with-median-k](https://github.com/Priyanshu062003/Leetcode/tree/master/2574-count-subarrays-with-median-k) |
 | [3427-special-array-ii](https://github.com/Priyanshu062003/Leetcode/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/Priyanshu062003/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Linked List
 |  |
 | ------- |
