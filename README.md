@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Priyanshu062003/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0820-find-eventual-safe-states](https://github.com/Priyanshu062003/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Priyanshu062003/Leetcode/tree/master/0854-making-a-large-island) |
+| [2793-count-the-number-of-complete-components](https://github.com/Priyanshu062003/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Priyanshu062003/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Hash Table
 |  |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Priyanshu062003/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0820-find-eventual-safe-states](https://github.com/Priyanshu062003/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Priyanshu062003/Leetcode/tree/master/0854-making-a-large-island) |
+| [2793-count-the-number-of-complete-components](https://github.com/Priyanshu062003/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Priyanshu062003/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [2793-count-the-number-of-complete-components](https://github.com/Priyanshu062003/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Priyanshu062003/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/Priyanshu062003/Leetcode/tree/master/0854-making-a-large-island) |
+| [2793-count-the-number-of-complete-components](https://github.com/Priyanshu062003/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Priyanshu062003/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Simulation
 |  |
