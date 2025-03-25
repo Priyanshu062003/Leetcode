@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Priyanshu062003/Leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Priyanshu062003/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3643-zero-array-transformation-ii](https://github.com/Priyanshu062003/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Priyanshu062003/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## String
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Priyanshu062003/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Priyanshu062003/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Priyanshu062003/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Priyanshu062003/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Tree
 |  |
 | ------- |
